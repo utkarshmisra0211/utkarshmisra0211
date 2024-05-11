@@ -1,7 +1,7 @@
-👋 Hi, I’m Utkarsh!
-👀 I enjoy exploring new subjects.
-🌱 Currently, I’m diving into machine learning.
-💼 My aim is to apply this to create meaningful solns.
+- 👋 Hello, I’m Utkarsh!
+- 👀 I enjoy exploring new subjects.
+- 🌱 Currently, I’m focusing on understanding Data science and Machine learning
+- 💼 My aim is to apply this knowledge to create meaningful solutions.
 <!--
 **utkarshmisra0211/utkarshmisra0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
